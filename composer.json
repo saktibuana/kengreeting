@@ -1,0 +1,20 @@
+{
+    "name": "ken/hello",
+    "description": "Ken says hello to the world",
+    "autoload": {
+        "psr-4": {
+            "Ken\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ninja Ken",
+            "email": "ken@progate.com",
+	    "homepage": "https://progate.com",
+            "role": "Developer"
+        }
+    ],
+    "license":"proprietary",
+    "minimum-stability": "dev",
+    "require": {}
+}
