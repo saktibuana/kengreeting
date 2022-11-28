@@ -1,5 +1,5 @@
 {
-    "name": "ken/hello",
+    "name": "ninjaken/hello",
     "description": "Ken says hello to the world",
     "autoload": {
         "psr-4": {
